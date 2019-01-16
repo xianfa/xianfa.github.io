@@ -1,6 +1,6 @@
 ﻿---
 categories: [深度学习]
-tags: [virtual box，ubuntu，python3, pip3, virtualenv, tensorflow]
+tags: [virtual box, ubuntu, python3, pip3, virtualenv, tensorflow]
 ---
 环境是前几天整的，还是需要记录下，方便查阅翻看，以前虚拟机都是用的vmware，这次使用使用virtualbox作为虚拟机，如无特别说明，以后使用软件均以开源优先，万一需要研究源码，还可以直接获取。
 # 总体过程
