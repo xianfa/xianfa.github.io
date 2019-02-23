@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'More learn more lucky.'
 description: 'recording my study steps'
-keyword: 'xianfa,web,python,machinelearning,c++,深度学习，机器学习'
+keyword: 'xianfa,web,python,machinelearning,c++,深度学习,机器学习,量化投资'
 url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: 'xianfa'
 nickname: 'xianfa'
-bio: '程序设计，游戏开发'
+bio: '程序设计, 游戏开发, 量化投资'
 avatar: '/assets/img/profile.jpg'
 
 # Search
